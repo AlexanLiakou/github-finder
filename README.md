@@ -21,7 +21,13 @@ To run this project, you will need to add the following environment variables to
 
 <br>
 
-## Demo
+## GitHub Repository
+
+[Repo](https://github.com/AlexanLiakou/github-finder)
+
+<br>
+
+## Demo 
 
 [GitHub Finder](https://github-finder-drab-alpha.vercel.app/)
 
@@ -58,4 +64,3 @@ Start the server
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
